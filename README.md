@@ -85,7 +85,7 @@ SMD Challenge Badge 2の基板は、挑戦者の心を掴む設計で作られ�
 ※ガーバーデータは[Gerberフォルダ](https://github.com/dominodaosi106/SMD_Challenge2/tree/main/Gerber)にあります。SVG版も[SVGフォルダ](https://github.com/dominodaosi106/SMD_Challenge2/tree/main/SVG)で公開しています。  
 気軽に基板パターンを眺めたい人はSVGをチェック！
 
-<img src="SVG/top.svg" width="300"> <img src="SVG/SMD_Challenge_2025_v1_SVG/bottom.svg" width="300">
+<img src="SVG/top.svg" width="300"> <img src="SVG/bottom.svg" width="300">
 
 ## 必要な工具
 - **はんだごて**: はんだごてはできれば温調できるもの。コテ先は尖ったものがおすすめ  
