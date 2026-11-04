@@ -1,6 +1,9 @@
 # SMD_Challenge2
 SMD_Challenge2
 
+##　編集中
+このREADMEはまだ編集中です。
+
 このプロジェクトは、aspro648の[Attiny85Challenge](https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge)を基に改変したもので、Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) ライセンスの下で公開されています。  
 [https://creativecommons.org/licenses/by-sa/3.0/us/](https://creativecommons.org/licenses/by-sa/3.0/us/)  
 また、https://www.tindie.com/products/makersbox/smd-challenge を参考にしています。
@@ -103,14 +106,14 @@ SMD Challenge Badge 2の基板は、挑戦者の心を掴む設計で作られ�
 
 ## 組み立てガイド
 詳細な組み立て手順は、以下のリンクを参照してください：
-- [組み立て説明書](Manual/SMD_Challenge_Badge_Manual_ver2.3.pdf)
+- [組み立て説明書](Manual/SMD_Challenge_Badge_2_Manual_ver1.1.pdf)
 
 動作確認動画  
 [![動作動画](http://img.youtube.com/vi/hwRiR8ovcfM/0.jpg)](https://www.youtube.com/watch?v=hwRiR8ovcfM )
 
 ### 製作のポイント
 1. **表面（TOP）から開始**: 裏面から始めると難易度が跳ね上がります！
-2. **大きい部品から**: 3216→2012→1608→1005→0603の順で。大きいSMD部品から始めるとモチベーションを保ちやすいです。
+2. **大きい部品から**: 2012→1608→1005→0603→045025の順で。大きいSMD部品から始めるとモチベーションを保ちやすいです。
 3. **LEDの極性に注意**: 逆向きだと光りません（50:50の運試し！）。カソードの向きは説明書を参考に。
 4. **LEDの取り扱い**: 樹脂部をピンセットで強く押さえないで。傷や断線で点灯不良の原因に。
 5. **スイッチ（SW1）**: 熱に注意し慎重にはんだ付け。
@@ -125,7 +128,7 @@ SMD Challenge Badge 2の基板は、挑戦者の心を掴む設計で作られ�
 安全に気をつけて、はんだ付けの「狂人」への道を突き進もう！
 
 ## 完成したら
-- **SNSで投稿**: Twitterやその他のSNSで[#SMD_Challenge](https://twitter.com/intent/tweet?hashtags=SMD_Challenge)を付けて投稿！  
+- **SNSで投稿**: Twitterやその他のSNSで[#SMD_Challenge2](https://twitter.com/intent/tweet?hashtags=SMD_Challenge2)を付けて投稿！  
 成功も失敗も、コミュニティでシェアしよう！
 - **挑戦の証**: 完成したバッジを胸に、はんだ付けの「狂人」として誇示！
 
@@ -156,7 +159,8 @@ AVRマイコンのファームウェアなどは[Firmware](Firmware)にありま
 
 SMD Challenge Badgeは、[Hackaday.ioの"An Unfortunate SMD Project"](https://hackaday.io/project/25265-an-unfortunate-smd-project)に敬意を表しつつ、使いやすさと耐久性を追求して進化させました！以下は、本家との主な違い：
 
-- **LED配置を逆転**: 壊れやすい0603サイズのLEDを一番安全な場所に移動。極小パーツを守るための戦略的配置！
+- **045025LEDを採用!!!
+- **LED配置を逆転**: 壊れやすいサイズのLEDを一番安全な場所に移動。極小パーツを守るための戦略的配置！
 - **基板サイズの拡大**: 本家よりゆったり設計で、作業スペースを確保。はんだ付けのストレスが少し軽減！
 - **電源スイッチの追加**: 本家にはないスライドスイッチを搭載。電源のON/OFFが簡単で、バッジの輝きをコントロール！
 - **缶バッジ風金具**: 本家のピンバッジから、缶バッジと同じような金具へ変更。装着感も個性もアップ！
