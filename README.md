@@ -1,7 +1,7 @@
 # SMD_Challenge2
 SMD_Challenge2
 
-##　編集中
+## 編集中
 このREADMEはまだ編集中です。
 
 このプロジェクトは、aspro648の[Attiny85Challenge](https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge)を基に改変したもので、Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) ライセンスの下で公開されています。  
