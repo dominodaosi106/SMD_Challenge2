@@ -2,7 +2,9 @@
 SMD_Challenge2
 
 ## 編集中
-このREADMEはまだ編集中です。
+**このREADMEはまだ編集中です。**  
+しばらくおまちください。
+
 
 このプロジェクトは、aspro648の[Attiny85Challenge](https://github.com/aspro648/KiCad/tree/master/projects/Attiny/Attiny85Challenge)を基に改変したもので、Creative Commons Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0 US) ライセンスの下で公開されています。  
 [https://creativecommons.org/licenses/by-sa/3.0/us/](https://creativecommons.org/licenses/by-sa/3.0/us/)  
@@ -24,7 +26,7 @@ SMD_Challenge2
 ---
 
 **SMD Challenge Badge2**は、あなたの表面実装部品をはんだ付けスキルを試す究極のキットです！  
-初代 SMD Challenge より小さなLEDが発売されたのでより小さいLEDをはんだ付けするキットを作りました。
+初代 SMD Challenge より小さなLEDが発売されたのでより小さいLEDをはんだ付けするキットを作りました。  
 0603より小さな045025(0.45mm x 0.25mm）のLEDをはんだ付けして、技術と忍耐の限界に挑戦しましょう。  
 このキットは、BOOTH で購入できるように準備中です。  
 上級者向けですが、初心者も大歓迎！さあ、挑戦する覚悟はできていますか？
