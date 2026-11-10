@@ -161,7 +161,7 @@ AVRマイコンのファームウェアなどは[Firmware](Firmware)にありま
 
 SMD Challenge Badgeは、[Hackaday.ioの"An Unfortunate SMD Project"](https://hackaday.io/project/25265-an-unfortunate-smd-project)に敬意を表しつつ、使いやすさと耐久性を追求して進化させました！以下は、本家との主な違い：
 
-- **045025LEDを採用!!!
+- **045025LEDを採用!!!** 初代より小さい0.45 x 0.25mm LEDの採用
 - **LED配置を逆転**: 壊れやすいサイズのLEDを一番安全な場所に移動。極小パーツを守るための戦略的配置！
 - **基板サイズの拡大**: 本家よりゆったり設計で、作業スペースを確保。はんだ付けのストレスが少し軽減！
 - **電源スイッチの追加**: 本家にはないスライドスイッチを搭載。電源のON/OFFが簡単で、バッジの輝きをコントロール！
